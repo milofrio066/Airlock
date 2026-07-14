@@ -1,2 +1,1 @@
-# Airlock
-IoT network monitoring system using ESP32, Python, and Flask. Detects Wi-Fi deauthentication attacks and suspicious BLE activity in real time using machine learning classification. Features a live web dashboard and JSON REST API.
+system architecture diagram, problem/solution narrative, full tech stack table, project folder structure, step-by-step installation (ESP32 flashing + Flask backend), ML model section, features list, what you learned, and future improvements.
